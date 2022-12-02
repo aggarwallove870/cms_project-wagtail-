@@ -163,9 +163,9 @@ svg:not(:root) {
 }
 
 @media (max-width: 996px) {
-    body {
+    /* body {
         max-width: 780px;
-    }
+    } */
 }
 
 @media (max-width: 767px) {
